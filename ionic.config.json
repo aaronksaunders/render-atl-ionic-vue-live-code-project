@@ -1,0 +1,7 @@
+{
+  "name": "renderatlvue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
